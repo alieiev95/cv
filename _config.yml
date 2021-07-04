@@ -9,13 +9,13 @@ version: 2
 name: Vladyslav Alieiev
 title: Hog Operation Supervisor
 email: vladyslav.alieiev@gmail.com
-website: none
+website:
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
+twitter_username: lieiev
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
