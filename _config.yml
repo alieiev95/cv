@@ -29,7 +29,7 @@ youtube_username:
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
+additional_links: Link name
 - title: 
   icon: 
   url: 
