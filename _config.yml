@@ -80,13 +80,15 @@ content:
            * transporting piglets from one farm to another in the truck;
            * medication to sick pigs and general pig management.
       - layout: right
-        title: Westpork Pty Ltd, WA, Australia
+        title: Centrum Valley Farms, IA, USA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: General assistant farm hand
-        caption:  27/09/2018 to 13/10/2019
+        sub_title: Barn Worker/Mechanic
+        caption:  21/03/2016 to 20/03/2017
         description: | # this will include new lines to allow paragraphs
-        
+          * repair: food belts, belts that raise eggs, belts with chicken manure, egg belts, ventilation system;
+          * checking mortality chickens, cleaning in the barns;
+          * replacement: ventilation motors and pumps.
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
