@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coles Farms Inc, NC USA
+        title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Trainee
@@ -67,7 +67,7 @@ content:
            * breeding: insemination, hit check, sows movement;
            * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
       - layout: left
-        title: Westpork Pty Ltd, WA Australia
+        title: Westpork Pty Ltd, WA, Australia
         link: http://westpork.com.au/
         link_text: westpork.com.au
         sub_title: General assistant farm hand
@@ -80,7 +80,7 @@ content:
            + transporting piglets from one farm to another in the truck;
            + medication to sick pigs and general pig management.
       - layout: left
-        title: Centrum Valley Farms IA, USA
+        title: Centrum Valley Farms, IA, USA
         link: http://www.centrumvalleyfarms.com/
         link_text: centrumvalleyfarms.com
         sub_title: Barn Worker/Mechanic
@@ -110,9 +110,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Mykolayiv State Agrarian University
+        link: https://www.mnau.edu.ua/
+        link_text: mnau.edu.ua
+        caption: 01/09/2012 – 30/06/2017
+        sub_title: Agroengineering on Power and Engineering Faculty
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
