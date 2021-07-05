@@ -57,8 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coles Farms Inc, 
-        NC, USA
+        title: Coles Farms Inc,      NC, USA
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Trainee
