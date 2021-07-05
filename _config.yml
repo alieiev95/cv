@@ -66,9 +66,9 @@ content:
            * farrowing: assisting pregnant sows; weaning, pressure washing;
            * breeding: insemination, hit check, sows movement;
            * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
-      - layout: left
+      - layout: right
         title: Westpork Pty Ltd, WA Australia
-        link: http://westpork.com.au
+        link: westpork.com.au
         # link_text: boringcompany.com
         sub_title: General assistant farm hand
         caption:  27/09/2018 to 13/10/2019
@@ -81,7 +81,7 @@ content:
            + medication to sick pigs and general pig management.
       - layout: left
         title: Centrum Valley Farms IA, USA
-        link: http://www.centrumvalleyfarms.com
+        link: centrumvalleyfarms.com
         # link_text: boringcompany.com
         sub_title: Barn Worker/Mechanic
         caption:  21/03/2016 to 20/03/2017
@@ -91,7 +91,7 @@ content:
           * replacement: ventilation motors and pumps.
       - layout: right
         title: Centrum Valley Farms IA, USA
-        link: http://www.centrumvalleyfarms.com
+        link: centrumvalleyfarms.com
         # link_text: boringcompany.com
         sub_title: Barn Worker/Mechanic
         caption:  21/03/2016 to 20/03/2017
