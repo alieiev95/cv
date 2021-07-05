@@ -66,7 +66,7 @@ content:
            * farrowing: assisting pregnant sows; weaning, pressure washing;
            * breeding: insemination, hit check, sows movement;
            * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
-      - layout: right
+      - layout: left
         title: Westpork Pty Ltd, WA Australia
         link: westpork.com.au
         # link_text: boringcompany.com
@@ -89,14 +89,14 @@ content:
           * repair: food belts, belts that raise eggs, belts with chicken manure, egg belts, ventilation system;
           * checking mortality chickens, cleaning in the barns;
           * replacement: ventilation motors and pumps.
-      - layout: right
-        title: Centrum Valley Farms IA, USA
-        link: centrumvalleyfarms.com
+      - layout: left
+        title: Valleyfair, MN, USA
+        link: valleyfair.com
         # link_text: boringcompany.com
-        sub_title: Barn Worker/Mechanic
-        caption:  21/03/2016 to 20/03/2017
+        sub_title: Ride Operator
+        caption:   10/05/2015 – 09/09/2015
         description: | # this will include new lines to allow paragraphs
-
+          * Check safety, control attractions, cleaning of the territory, communication and service by site visitors.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
