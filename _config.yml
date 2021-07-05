@@ -79,7 +79,7 @@ content:
            + sorting pigs by gender, size and loading into the truck;
            + transporting piglets from one farm to another in the truck;
            + medication to sick pigs and general pig management.
-      - layout: right
+      - layout: left
         title: Centrum Valley Farms IA, USA
         link: http://www.centrumvalleyfarms.com
         # link_text: boringcompany.com
@@ -89,7 +89,7 @@ content:
           * repair: food belts, belts that raise eggs, belts with chicken manure, egg belts, ventilation system;
           * checking mortality chickens, cleaning in the barns;
           * replacement: ventilation motors and pumps.
-        - layout: left
+        - layout: right
         title: Centrum Valley Farms IA, USA
         link: http://www.centrumvalleyfarms.com
         # link_text: boringcompany.com
