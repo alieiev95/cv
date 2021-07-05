@@ -62,7 +62,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Trainee
         caption:  22/11/2019 to 12/11/2020
-        description: | # this will include new lines to allow paragraphs
+        content: | # this will include new lines to allow paragraphs
            🢒 farrowing: assisting pregnant sows; weaning, pressure washing;
            🢒 breeding: insemination, hit check, sows movement;
            🢒 feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
