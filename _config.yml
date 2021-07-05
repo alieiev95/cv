@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coles Farms Inc, North Carolina, USA
+        title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Trainee
@@ -67,7 +67,7 @@ content:
            * breeding: insemination, hit check, sows movement;
            * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
       - layout: left
-        title: Westpork Pty Ltd, Western Australia, Australia
+        title: Westpork Pty Ltd, WA, Australia
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: General assistant farm hand
