@@ -67,16 +67,19 @@ content:
            * breeding: insemination, hit check, sows movement;
            * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Westpork Pty Ltd, Western Australia, Australia
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: General assistant farm hand
+        caption:  27/09/2018 to 13/10/2019
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-      
+           * cleaning sheds with machines (Manitou MLT-X732, Manitou MLT-526 Turbo, Merlo, Bobcat 226B);
+           * disinfection with lime;
+           * transporting hay on tractor Arion 620c with a pitchfork and scattering it around the shed on Bobcat;
+           * sorting pigs by gender, size and loading into a truck;
+           * transporting piglets from one farm to another in a truck;
+           * medication to sick pigs and general pig management.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
