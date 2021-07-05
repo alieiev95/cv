@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: alieiev95/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -29,7 +29,7 @@ youtube_username:
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links: Link name
+additional_links: 
 - title: 
   icon: 
   url: 
