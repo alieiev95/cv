@@ -57,15 +57,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coles Farms Inc,      NC, USA
+        title: Coles Farms Inc, ⋅⋅ NC, USA
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Trainee
         caption:  22/11/2019 to 12/11/2020
         description: | # this will include new lines to allow paragraphs
-           🢒 farrowing: assisting pregnant sows; weaning, pressure washing;
-           🢒 breeding: insemination, hit check, sows movement;
-           🢒 feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
+           * farrowing: assisting pregnant sows; weaning, pressure washing;
+           * breeding: insemination, hit check, sows movement;
+           * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
       - layout: left
         title: The Boring Company
         link: boringcompany.com
