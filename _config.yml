@@ -97,6 +97,14 @@ content:
         caption:   10/05/2015 – 09/09/2015
         description: | # this will include new lines to allow paragraphs
           * Check safety, control attractions, cleaning of the territory, communication and service by site visitors.
+      - layout: left
+        title: Farm Smaragd, Kalanchak, Ukraine
+        # link: https://www.valleyfair.com/
+        # link_text: valleyfair.com
+        sub_title: Trainee
+        caption:  05/05/14 to 01/11/14
+        description: | # this will include new lines to allow paragraphs
+          * Checking temperature & water in the barns. Feeding, general assisting during farrowing.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
