@@ -69,7 +69,7 @@ content:
       - layout: left
         title: Westpork Pty Ltd, WA Australia
         link: westpork.com.au
-        # link_text: boringcompany.com
+        link_text: http://westpork.com.au/
         sub_title: General assistant farm hand
         caption:  27/09/2018 to 13/10/2019
         description: | # this will include new lines to allow paragraphs
@@ -82,7 +82,7 @@ content:
       - layout: left
         title: Centrum Valley Farms IA, USA
         link: centrumvalleyfarms.com
-        # link_text: boringcompany.com
+        link_text: http://www.centrumvalleyfarms.com/
         sub_title: Barn Worker/Mechanic
         caption:  21/03/2016 to 20/03/2017
         description: | # this will include new lines to allow paragraphs
@@ -92,7 +92,7 @@ content:
       - layout: left
         title: Valleyfair, MN, USA
         link: valleyfair.com
-        # link_text: boringcompany.com
+        link_text: https://www.valleyfair.com/
         sub_title: Ride Operator
         caption:   10/05/2015 – 09/09/2015
         description: | # this will include new lines to allow paragraphs
