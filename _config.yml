@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Lariagra Farms  Ltd., AB, Canada
+        title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
         link_text: sunterrafarms.ca
         sub_title: Specialized livestock worker
