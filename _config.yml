@@ -55,15 +55,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coles Farms Inc, NC, USA
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Trainee
-        caption:  22/11/2019 to 12/11/2020
+        title: Lariagra Farms  Ltd., AB, Canada
+        link: https://www.sunterrafarms.ca/
+        link_text: sunterrafarms.ca
+        sub_title: Specialized livestock worker
+        caption:  14/09/2021 to (current time)
         description: | # this will include new lines to allow paragraphs
-           * farrowing: assisting pregnant sows; weaning, pressure washing;
-           * breeding: insemination, hit check, sows movement;
-           * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
+           * breeding of sows and gilts - both artificial insemination and natural;
+           * barn maintenance and routine repair & record keeping;
+           * vaccinating animals according to bam health protocol, feeding and treatment of injured or sick animals;
       - layout: left
         title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
