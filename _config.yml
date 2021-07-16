@@ -131,11 +131,16 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      Driving license: passenger car; trucks up to 16,500 pounds 
+      - I have 6 years of the car driving experience;
+      ~ 450 hours of driving Manitou & Bobcat (cleaning sheds); 
+      ~ 300 hours of driving tractor Arion 620c / Kubota M9540 & 3 ton truck (transporting piglets & hogs).
+
       Alongside my interests in swine production some of my other interests and hobbies are:
-      - Kickboxing (trained after university for 4 years)
-      - Сhess (played for 7 years in the school, currently playing rarely)
-      - Reading general education literature 
-      - Doing sports with own weight + jogging
+      - kickboxing (trained after the lectures in the university for 4 years);
+      - chess (played for 7 years in the school, currently playing rarely);
+      - reading general education literature;
+      - doing sports with own weight + jogging.
 
 
 # Footer
