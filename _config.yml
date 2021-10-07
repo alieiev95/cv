@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vlad and I'm a specialized livestock worker. As well as work on a <mark>farm</mark> I also have experience driving agricultural <mark>machinery</mark> such as: Manitou, Bobcat, Arion etc. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Vladyslav and I'm a specialized livestock worker. As well as work on a <mark>farm</mark> I also have experience driving agricultural <mark>machinery</mark> such as: Manitou, Bobcat, Arion etc. I have worked at a number of companies gaining teamwork and leadership skills.
   
 content:
   - title: Experience # Title for the section
