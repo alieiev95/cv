@@ -15,14 +15,14 @@ website:
 darkmode: false
 
 # Social links
-twitter_username: lieiev
+# twitter_username: lieiev
 # github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: lieiev
 # flickr_username: jekyll
 instagram_username: lieiev
-linkedin_username: vladyslav-aieieiv-46179619b
+# linkedin_username: vladyslav-aieieiv-46179619b
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,7 +30,7 @@ linkedin_username: vladyslav-aieieiv-46179619b
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
+# additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Specialist in <mark>Operation</mark>, <mark>Machinery</mark> and <mark>Equipment</mark> of Agribusiness and able to solve unique tasks related to the <mark>maintenance</mark> and use of mechanized technologies of production, primary processing, storage and transportation of agricultural products. Expert management of mechanized technological processes and production units that provide technical support for an agro-industrial enterprise, with a proven record of elimination of failures.
+  Solve unique tasks related to the <mark>maintenance</mark> and use of <mark>mechanized technologies</mark> of production, primary processing, storage and transportation of agricultural products. Expert management of mechanized technological processes and production units that provide technical support for an agro-industrial enterprise, with a proven record of elimination of failures.
   
 content:
   - title: Experience # Title for the section
