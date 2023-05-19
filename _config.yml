@@ -39,7 +39,7 @@ content:
         link: https://www.sunterrafarms.ca/
         link_text: sunterrafarms.ca
         sub_title: Specialized livestock worker
-        caption:  24/08/2021 to (current time)
+        caption: August 2021 – Present 
         description: | # this will include new lines to allow paragraphs
            * Provide agricultural livestock services such as artificial insemination, assisting pregnant sows and sorting new-borns
            * Recognize and treat certain livestock health problems
@@ -50,41 +50,43 @@ content:
         title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Trainee
-        caption:  22/11/2019 to 12/11/2020
+        sub_title: Farrowing/Breeding Technician
+        caption: November 2019 – November 2020
         description: | # this will include new lines to allow paragraphs
-           * farrowing: assisting pregnant sows; weaning, pressure washing;
-           * breeding: insemination, hit check, sows movement;
-           * feeding and treatment of sick sows and piglets, cleaning dead with a tractor Kubota.
+           * Farrowing: assisted pregnant sows; weaned and sorted by sex piglets; sorted new-borns; pressure washing
+           * Breeding: bred sows and gilts - both artificial insemination and natural
+           * Vaccinated animals according to barn health protocol, fed and treated sick animals
+           * Barn maintenance and routine repair, record keeping
+           * Performed and executed the setting up, operation, and repair of farm machineries and equipment (Kubota tractor)
       - layout: left
         title: Westpork Pty Ltd, WA, Australia
         link: http://westpork.com.au/
         link_text: westpork.com.au
-        sub_title: General assistant farm hand
-        caption:  27/09/2018 to 13/10/2019
+        sub_title: Machine Operator
+        caption: September 2018 - October 2019
         description: | # this will include new lines to allow paragraphs
-           + cleaning sheds with machines (Manitou MLT-X732, Manitou MLT-526 Turbo, Merlo, Bobcat 226B);
-           + disinfection with lime;
-           + transporting hay on tractor Arion 620c with a pitchfork and scattering it around the shed on Bobcat;
-           + sorting pigs by gender, size and loading into the truck;
-           + transporting piglets from one farm to another in the truck;
-           + medication to sick pigs and general pig management.
+           + Cleaned pigsties and operated the farm equipment such as tractor Arion 620c, skid steer loader 226B, telehandler MLT-X732 and MLT-526 
+           + Maintained the equipment by fuelling daily, greasing, and checking hydraulic fluid levels 
+           + Drove a forklift to unload hay from the transport trucks and delivered to the pig shelter
+           + Delivered piglets from one barn to another by using 3-ton truck
+           + Prepared shelter for pigs by liming and scattering hay around the shed
       - layout: left
         title: Centrum Valley Farms, IA, USA
         link: http://www.centrumvalleyfarms.com/
         link_text: centrumvalleyfarms.com
         sub_title: Barn Worker/Mechanic
-        caption:  21/03/2016 to 20/03/2017
+        caption: March 2016 – March 2017
         description: | # this will include new lines to allow paragraphs
-          * repair: food belts, belts that raise eggs, belts with chicken manure, egg belts, ventilation system;
-          * checking mortality chickens, cleaning in the barns;
-          * replacement: ventilation motors and pumps.
+          * Administered medications
+          * Observed animals physical conditions to detect illness
+          * Inspected motors, belts and ventilation system
+          * Operated and maintained machines, inspected the final product
       - layout: left
         title: Valleyfair, MN, USA
         link: https://www.valleyfair.com/
         link_text: valleyfair.com
         sub_title: Ride Operator
-        caption:   10/05/2015 – 09/09/2015
+        caption: June 2015  –September 2015
         description: | # this will include new lines to allow paragraphs
           * Check safety, control attractions, cleaning of the territory, communication and service by site visitors.
       - layout: left
