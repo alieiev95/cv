@@ -88,15 +88,18 @@ content:
         sub_title: Ride Operator
         caption: June 2015  –September 2015
         description: | # this will include new lines to allow paragraphs
-          * Check safety, control attractions, cleaning of the territory, communication and service by site visitors.
+          * Operated equipment that starts and shuts down ride
+          * Pull down safety bars, buckled seat belts
+          * Enforced all safety regulations and stayed current with safety rules and procedures
+          * Kept an eye on patrons and their movements to ensure they are not in any danger
       - layout: left
         title: Farm Smaragd, Kalanchak, Ukraine
         # link: https://www.valleyfair.com/
         # link_text: valleyfair.com
         sub_title: Trainee
-        caption:  05/05/14 to 01/11/14
+        caption:  May 2015 -  November 2014
         description: | # this will include new lines to allow paragraphs
-          * Checking temperature & water in the barns. Feeding, general assisting during farrowing.
+          * Checked temperature & water in the barns. Feeding, general assisting during farrowing
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -105,12 +108,14 @@ content:
         title: Mykolayiv State Agrarian University
         link: https://www.mnau.edu.ua/
         link_text: mnau.edu.ua
-        caption: 01/09/2012 – 30/06/2017
+        caption: September 2012 – August 2017
         sub_title: Bachelor’s Degree 
         quote: >
-          Agroengineering on Power and Engineering Faculty
+          Operation, Machinery and Equipment of Agribusiness
         description: | # this will include new lines to allow paragraphs
-          During my time at university I learnt most of my key skills that have I have taken through my <mark>career</mark> such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy <mark>work</mark> life balance.
+          Canadian Equivalency: Bachelor’s Degree (4 years) 
+          Educational Credential Assessment by World Education Services (WES)
+          Proof by request
 
   - title: A Little More About Me
     layout: text
