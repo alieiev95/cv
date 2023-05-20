@@ -113,23 +113,20 @@ content:
         quote: >
           Operation, Machinery and Equipment of Agribusiness
         description: | # this will include new lines to allow paragraphs
-          Canadian Equivalency: Bachelor’s Degree (4 years) 
-          Educational Credential Assessment by World Education Services (WES)
-          Proof by request
+          Canadian Equivalency: Bachelor’s Degree (4 years) with a credential evaluation from World Education Services (WES). Proof by request
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Driving license: passenger car; trucks up to 16,500 pounds 
-      - I have 6 years of the car driving experience;
-      - 450 hours of driving Manitou & Bobcat (cleaning sheds); 
-      - 300 hours of driving tractor Arion 620c / Kubota M9540 & 3 ton truck (transporting piglets & hogs).
+      - DL Class 5 (AB)
+      - 500 hours of  operating a telehandler MLT-X732 and MLT-526 & skid steer loader 226B 
+      - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3 ton truck
 
-      Alongside my interests in swine production some of my other interests and hobbies are:
-      - kickboxing (trained after the lectures in the university for 4 years);
-      - chess (played for 7 years in the school, currently playing rarely);
-      - reading general education literature;
-      - doing sports with own weight + jogging.
+      Extracurricular
+      - Kickboxing (amateur, trained for 4 years)
+      - Chess player (played for 7 years, currently playing rarely)
+      - Reading books by interest and doing sports to keep body in shape
+      - Jogging everyday
 
 
 # Footer
