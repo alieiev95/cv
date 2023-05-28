@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Vladyslav Alieiev
-title: Specialist in Operation, Machinery and Equipment of Agribusiness
+title: 
 email: vladyslav.alieiev@gmail.com
 website: 
 
@@ -28,8 +28,7 @@ instagram_username: lieiev
 # about_title: About Me
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Solve unique tasks related to the <mark>maintenance</mark> and use of <mark>mechanized technologies</mark> of production, primary processing, storage and transportation of agricultural products. Expert management of mechanized technological processes and production units that provide technical support for an agro-industrial enterprise, with a proven record of elimination of failures.
-  
+  Interested in work that helps me improve my skills to better me for life in the future. I am a hands-on individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in any position and to do so I will push myself beyond my limits.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
