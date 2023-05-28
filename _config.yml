@@ -28,9 +28,9 @@ instagram_username: lieiev
 # about_title: About Me
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interested in work that helps me improve my skills to better me for life in the future. I am a hands-on individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in any position and to do so I will push myself beyond my limits.
+  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in <mark>any position</mark> and to do so I will push myself beyond my limits.
 content:
-  - title: Experience # Title for the section
+  - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -67,8 +67,8 @@ content:
            + Cleaned pigsties and operated the farm equipment such as tractor Arion 620c, skid steer loader 226B, telehandler MLT-X732 and MLT-526 
            + Maintained the equipment by fuelling daily, greasing, and checking hydraulic fluid levels 
            + Drove a forklift to unload hay from the transport trucks and delivered to the pig shelter
-           + Delivered piglets from one barn to another by using 3-ton truck
-           + Prepared shelter for pigs by liming and scattering hay around the shed
+           + Delivered piglets from one barn to another in a 3-ton manual truck
+           + Unscrew or tighten pipes, casing, using hand and power wrenches and tongs
       - layout: left
         title: Centrum Valley Farms, IA, USA
         link: http://www.centrumvalleyfarms.com/
@@ -77,7 +77,7 @@ content:
         caption: March 2016 – March 2017
         description: | # this will include new lines to allow paragraphs
           * Administered medications
-          * Observed animals physical conditions to detect illness
+          * Remove broken limbs from wires, using hooked extension poles
           * Inspected motors, belts and ventilation system
           * Operated and maintained machines, inspected the final product
       - layout: left
@@ -110,11 +110,11 @@ content:
         caption: September 2012 – August 2017
         sub_title: Bachelor’s Degree 
         quote: >
-          Operation, Machinery and Equipment of Agribusiness
+          
         description: | # this will include new lines to allow paragraphs
-          Canadian Equivalency: Bachelor’s Degree (4 years) with a credential evaluation from World Education Services (WES). Proof by request
+          Operation, Machinery and Equipment of Agribusiness
 
-  - title: A Little More About Me
+  - title: ADDITIONAL SKILLS
     layout: text
     content: | # this will include new lines to allow paragraphs
       - DL Class 5 (AB)
