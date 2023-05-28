@@ -100,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Checked temperature & water in the barns. Feeding, general assisting during farrowing
 
-  - title: Education # Title for the section
+  - title: EDUCATION # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -117,15 +117,12 @@ content:
   - title: ADDITIONAL SKILLS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - DL Class 5 (AB)
+      - Driver Licence Class 5 (AB) and wons a vehicle
       - 500 hours of  operating a telehandler MLT-X732 and MLT-526 & skid steer loader 226B 
-      - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3 ton truck
-
-      Extracurricular
-      - Kickboxing (amateur, trained for 4 years)
-      - Chess player (played for 7 years, currently playing rarely)
-      - Reading books by interest and doing sports to keep body in shape
-      - Jogging everyday
+      - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3-ton manual truck
+      - Standard First Aid Level C CPR certificate
+      - Fluent in English, Russian and Ukrainian
+      - Cumputer: MS Office (Word, Excel, PowerPoint), Internet and email
 
 
 # Footer
