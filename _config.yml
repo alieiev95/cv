@@ -28,7 +28,7 @@ instagram_username: lieiev
 # about_title: About Me
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in any position and to do so I will push myself beyond my limits.
+  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in <mark>any position</mark> and to do so I will push myself beyond my limits.
 content:
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,19 +121,18 @@ content:
         link_text: mnau.edu.ua
         caption: September 2012 – August 2017
         sub_title: Bachelor’s Degree 
-        quote: >Operation, Machinery and Equipment of Agribusiness
+        quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Specialist in Operation, Machinery and Equipment of Agribusiness and able to solve unique tasks related to the maintenance and use of mechanized technologies of production, primary processing, storage and transportation of agricultural products. Expert management of mechanized technological processes and production units that provide technical support for an agro-industrial enterprise, with a proven record of elimination of failures.
+          Operation, Machinery and Equipment of Agribusiness
 
   - title: ADDITIONAL SKILLS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - DL Class 5 with Q endorsement (AB) and owns a vehicle
-      - Standard First Aid Level C CPR certificate
-      - H2S Alive certificate
+      - Driver Licence Class 5 (AB) and owns a vehicle
       - 500 hours of  operating a telehandler MLT-X732 and MLT-526 & skid steer loader 226B 
       - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3-ton manual truck
+      - Standard First Aid Level C CPR certificate
       - Fluent in English, Russian and Ukrainian
       - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
 
