@@ -33,20 +33,6 @@ content:
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
-        title: Centurion Canada Rentals & Service​s, AB, Canada 
-        link: https://centurioncrs.com/
-        link_text: centurioncrs.com
-        sub_title: Field Technician/Vac Truck Driver
-        caption: July 2023 – Present 
-        description: | # this will include new lines to allow paragraphs
-           * Set up, service, repair and maintain rental fleet
-           * Shop upkeep and prepare equipment for field install
-           * Plumbing and Gas Fitting
-           * Diesel Engine Service and Repair
-           * Sewage Treatment
-           * HVAC
-           * Renovations, maintenance, customer service, electrical maintenance
       - layout: left
         title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
