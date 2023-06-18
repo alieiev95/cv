@@ -28,7 +28,7 @@ instagram_username: lieiev
 # about_title: About Me
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is <mark>to succeed in any position</mark> and to do so I will push myself beyond my limits.
+  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in <mark>any position</mark> and to do so I will push myself beyond my limits.
 content:
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
