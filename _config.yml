@@ -28,23 +28,37 @@ instagram_username: lieiev
 # about_title: ABOUT ME
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is to succeed in <mark>any position</mark> and to do so I will push myself beyond my limits.
+  Interested in work that helps me improve my skills to better me for life in the future. I am a <mark>hands-on</mark> individual. I prefer a job that emphasizes my bilingual capabilities and strong work ethic. I am always willing to learn and excel in areas that I am not familiar with. My overall goal is <mark>to succeed</mark> in any position and to do so I will push myself beyond my limits.
 content:
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: Centurion Canada Rentals & Service​s, AB, Canada 
+        link: https://centurioncrs.com/
+        link_text: centurioncrs.com
+        sub_title: Field Technician / Vac Truck Driver
+        caption: July 2023 – Present 
+        description: | # this will include new lines to allow paragraphs
+           •	Set up, service, repair and maintain rental fleet
+           •	Shop upkeep and prepare equipment for field install
+           •	Plumbing and Gas Fitting
+           •	Diesel Engine Service and Repair
+           •	Sewage Treatment
+           •	HVAC
+           •	Renovations, maintenance, customer service, electrical maintenance
       - layout: left
         title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
         link_text: sunterrafarms.ca
         sub_title: Farrowing Technician
-        caption: August 2021 – Present 
+        caption: August 2021 – June 2023 
         description: | # this will include new lines to allow paragraphs
-           * Provide agricultural livestock services such as artificial insemination, assisting pregnant sows and sorting new-borns
-           * Recognize and treat certain livestock health problems
-           * Maintain livestock performance records
-           * Work closely with all staff to meet monthly farrowing and mortality targets
-           * Vaccinate animals according to farm protocols
+           •	Provided agricultural livestock services such as artificial insemination, assisted pregnant sows and sorted new-borns
+           •	Recognized and treated certain livestock health problems
+           •	Maintained livestock performance records
+           •	Worked closely with all staff to meet monthly farrowing and mortality targets
+           •	Vaccinated animals according to farm protocols
       - layout: left
         title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
@@ -117,10 +131,11 @@ content:
   - title: ADDITIONAL SKILLS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Driver Licence Class 5 (AB) and owns a vehicle
+      - DL Class 5 with Q endorsement (AB) and owns a vehicle
+      - Standard First Aid Level C CPR certificate
+      - H2S Alive certificate
       - 500 hours of  operating a telehandler MLT-X732 and MLT-526 & skid steer loader 226B 
       - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3-ton manual truck
-      - Standard First Aid Level C CPR certificate
       - Fluent in English, Russian and Ukrainian
       - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
 
