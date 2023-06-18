@@ -46,6 +46,18 @@ content:
            * Work closely with all staff to meet monthly farrowing and mortality targets
            * Vaccinate animals according to farm protocols
       - layout: left
+        title: Lariagra Farms  Ltd, AB, Canada
+        link: https://www.sunterrafarms.ca/
+        link_text: sunterrafarms.ca
+        sub_title: Farrowing Technician
+        caption: August 2021 – Present 
+        description: | # this will include new lines to allow paragraphs
+           * Provide agricultural livestock services such as artificial insemination, assisting pregnant sows and sorting new-borns
+           * Recognize and treat certain livestock health problems
+           * Maintain livestock performance records
+           * Work closely with all staff to meet monthly farrowing and mortality targets
+           * Vaccinate animals according to farm protocols
+      - layout: left
         title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
         # link_text: boringcompany.com
