@@ -34,29 +34,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Lariagra Farms  Ltd, AB, Canada
-        link: https://www.sunterrafarms.ca/
-        link_text: sunterrafarms.ca
-        sub_title: Farrowing Technician
-        caption: August 2021 – Present 
+        title: Centurion Canada Rentals & Service​s, AB, Canada
+        link: https://centurioncrs.com/
+        link_text: centurioncrs.com
+        sub_title: Field Technician/Vac Truck Driver
+        caption: July 2023 – Present
         description: | # this will include new lines to allow paragraphs
-           * Provide agricultural livestock services such as artificial insemination, assisting pregnant sows and sorting new-borns
-           * Recognize and treat certain livestock health problems
-           * Maintain livestock performance records
-           * Work closely with all staff to meet monthly farrowing and mortality targets
-           * Vaccinate animals according to farm protocols
+           * Set up, service, repair and maintain rental fleet
+           * Shop upkeep and prepare equipment for field install
+           * Plumbing and Gas Fitting
+           * Diesel Engine Service and Repair
+           * Sewage Treatment
+           * HVAC
+           * Renovations, maintenance, customer service, electrical maintenance
       - layout: left
         title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
         link_text: sunterrafarms.ca
         sub_title: Farrowing Technician
-        caption: August 2021 – Present 
+        caption: August 2021 – June 2023 
         description: | # this will include new lines to allow paragraphs
-           * Provide agricultural livestock services such as artificial insemination, assisting pregnant sows and sorting new-borns
-           * Recognize and treat certain livestock health problems
-           * Maintain livestock performance records
-           * Work closely with all staff to meet monthly farrowing and mortality targets
-           * Vaccinate animals according to farm protocols
+           * Provided agricultural livestock services such as artificial insemination, assisted pregnant sows and sorting new-borns
+           * Recognized and treated certain livestock health problems
+           * Maintained livestock performance records
+           * Worked closely with all staff to meet monthly farrowing and mortality targets
+           * Vaccinated animals according to farm protocols
       - layout: left
         title: Coles Farms Inc, NC, USA
         # link: boringcompany.com
