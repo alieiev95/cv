@@ -40,13 +40,13 @@ content:
         sub_title: Field Technician/Vac Truck Driver
         caption: July 2023 – Present
         description: | # this will include new lines to allow paragraphs
-           * Set up, service, repair and maintain rental fleet
-           * Shop upkeep and prepare equipment for field install
-           * Plumbing and Gas Fitting
-           * Diesel Engine Service and Repair
-           * Sewage Treatment
-           * HVAC
-           * Renovations, maintenance, customer service, electrical maintenance
+           * Installed, repaired, and maintained plumbing systems, insulation, and heat traces for industrial and oilfield equipment
+           * Measured, cut, and assembled piping systems using hand and power tools
+           * Performed mechanical troubleshooting, including diagnosing and fixing generator (55KW, 60KW, JCB) and electrical system failures
+           * Conducted routine maintenance on pumps, breakers, and various rig-site equipment, ensuring optimal operation
+           * Worked in extreme weather conditions while adhering to strict safety procedures
+           * Operated and maintained a Class 3 VAC truck and trailer, gaining experience with hydraulics and fluid management systems
+           * Implemented preventive maintenance strategies, reducing equipment downtime by 20%
       - layout: left
         title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
@@ -54,10 +54,10 @@ content:
         sub_title: Farrowing Technician
         caption: August 2021 – June 2023 
         description: | # this will include new lines to allow paragraphs
-           * Provided agricultural livestock services such as artificial insemination, assisted pregnant sows and sorting new-borns
-           * Recognized and treated certain livestock health problems
-           * Maintained livestock performance records
+           * Provided livestock services such as artificial insemination, assisted pregnant sows and sorted new-borns
+           * Recognized and treated certain livestock health problems, and maintained livestock performance records
            * Worked closely with all staff to meet monthly farrowing and mortality targets
+           * Cultivated optimal conditions for breeding success, consistently meeting or exceeding farrowing and mortality targets by 15% through precise environmental adjustments and data-driven animal care strategies
            * Vaccinated animals according to farm protocols
       - layout: left
         title: Coles Farms Inc, NC, USA
@@ -78,11 +78,11 @@ content:
         sub_title: Machine Operator
         caption: September 2018 - October 2019
         description: | # this will include new lines to allow paragraphs
-           + Cleaned pigsties and operated the farm equipment such as tractor Arion 620c, skid steer loader 226B, telehandler MLT-X732 and MLT-526 
-           + Maintained the equipment by fuelling daily, greasing, and checking hydraulic fluid levels 
-           + Drove a forklift to unload hay from the transport trucks and delivered to the pig shelter
-           + Delivered piglets from one barn to another in a 3-ton manual truck
-           + Unscrew or tighten pipes, casing, using hand and power wrenches and tongs
+           + Cleaned pigsties and operated the farm equipment such as tractor Arion 620c, skid steer 226B, loader, telehandler (MLT-X732 and MLT-526) 
+           + Maintained the equipment by fueling daily, greasing, and checking hydraulic fluid levels
+           + Operated a forklift to unload hay from the transport trucks and delivered to the pig shelter
+           + Delivered piglets from one barn to another in a 3-ton truck
+           + Unscrew or tighten pipes and casing, using hand and power wrenches and tongs to ensure seamless operation of mechanical systems, contributing to equipment efficiency
       - layout: left
         title: Centrum Valley Farms, IA, USA
         link: http://www.centrumvalleyfarms.com/
@@ -90,10 +90,9 @@ content:
         sub_title: Barn Worker/Mechanic
         caption: March 2016 – March 2017
         description: | # this will include new lines to allow paragraphs
-          * Administered medications
-          * Remove broken limbs from wires, using hooked extension poles
-          * Inspected motors, belts and ventilation system
-          * Operated and maintained machines, inspected the final product
+          * Administered medications, inspected, repaired and installed motors, belts and ventilation system
+          * Operated and maintained machines, inspected the final product, cleaned, sharpened, and lubricated tools and equipment
+          * Removed broken limbs from wires, using hooked extension poles to enhance safety and operational efficiency, successfully reducing maintenance-related disruptions by 25%
       - layout: left
         title: Valleyfair, MN, USA
         link: https://www.valleyfair.com/
@@ -101,8 +100,8 @@ content:
         sub_title: Ride Operator
         caption: June 2015  –September 2015
         description: | # this will include new lines to allow paragraphs
-          * Operated equipment that starts and shuts down ride
-          * Pull down safety bars, buckled seat belts
+          * Operated equipment that starts and shuts down ride, pull down safety bars, buckled seat belts
+          * Enforced all safety regulations and stayed current with safety rules and procedures
           * Enforced all safety regulations and stayed current with safety rules and procedures
           * Kept an eye on patrons and their movements to ensure they are not in any danger
       - layout: left
@@ -122,22 +121,19 @@ content:
         link: https://www.mnau.edu.ua/
         link_text: mnau.edu.ua
         caption: September 2012 – August 2017
-        sub_title: Bachelor’s Degree 
+        sub_title: Bachelor’s Degree (4.28) 
         quote: >
           Operation, Machinery and Equipment of Agribusiness
         description: | # this will include new lines to allow paragraphs
           Specialist in Operation, Machinery and Equipment of Agribusiness and able to solve unique tasks related to the maintenance and use of mechanized technologies of production, primary processing, storage and transportation of agricultural products. 
 
-  - title: ADDITIONAL SKILLS
+  - title: HIGHLIGHTS OF QUALIFICATIONS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - DL Class 3 with Q endorsement (AB) and owns a vehicle
-      - Standard First Aid Level C CPR certificate
-      - H2S Alive certificate
-      - 500 hours of  operating a telehandler MLT-X732 & MLT-526 & skid steer loader 226B
-      - 300 hours of operating a tractor Arion 620c and Kubota M9540 & 3-ton manual truck
-      - Fluent in English, Russian and Ukrainian
+      - DL Class 1 and owns a vehicle
       - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
+      - Languages: English (Bilingual, CLB 6), Russian, and Ukrainian (native)
+      - Standard First Aid Level C (CPR); H2S Alive; CSO; Fall protection
 
 
 # Footer
