@@ -46,7 +46,7 @@ content:
            * Conducted routine maintenance on pumps, breakers, and various rig-site equipment, ensuring optimal operation
            * Worked in extreme weather conditions while adhering to strict safety procedures
            * Operated and maintained a Class 3 VAC truck and trailer, gaining experience with hydraulics and fluid management systems
-           * Implemented preventive maintenance strategies, reducing equipment downtime by 20%
+           * Implemented preventive maintenance strategies, reducing equipment downtime
       - layout: left
         title: Lariagra Farms  Ltd, AB, Canada
         link: https://www.sunterrafarms.ca/
@@ -102,14 +102,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Operated equipment that starts and shuts down ride, pull down safety bars, buckled seat belts
           * Enforced all safety regulations and stayed current with safety rules and procedures
-          * Enforced all safety regulations and stayed current with safety rules and procedures
           * Kept an eye on patrons and their movements to ensure they are not in any danger
       - layout: left
         title: Farm Smaragd, Kalanchak, Ukraine
         # link: https://www.valleyfair.com/
         # link_text: valleyfair.com
         sub_title: Trainee
-        caption:  May 2015 -  November 2014
+        caption:  May 2014 -  November 2014
         description: | # this will include new lines to allow paragraphs
           * Checked temperature & water in the barns. Feeding, general assisting during farrowing
 
@@ -130,6 +129,7 @@ content:
   - title: HIGHLIGHTS OF QUALIFICATIONS
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Bachelor’s Degree in Operation, Machinery and Equipment of Agribusiness 
       - DL Class 1 and owns a vehicle
       - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
       - Languages: English (Bilingual, CLB 6), Russian, and Ukrainian (native)
