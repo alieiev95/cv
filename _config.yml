@@ -104,13 +104,13 @@ content:
           * Enforced all safety regulations and stayed current with safety rules and procedures
           * Kept an eye on patrons and their movements to ensure they are not in any danger
       - layout: left
-        title: Farm Smaragd, Kalanchak, Ukraine
-        # link: https://www.valleyfair.com/
-        # link_text: valleyfair.com
-        sub_title: Trainee
-        caption:  May 2014 -  November 2014
+        title: 
+        # link: 
+        # link_text: 
+        sub_title: 
+        caption:  
         description: | # this will include new lines to allow paragraphs
-          * Checked temperature & water in the barns. Feeding, general assisting during farrowing
+          
 
   - title: EDUCATION # Title for the section
     layout: list # Type of content section (list/text)
