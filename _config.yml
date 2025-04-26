@@ -30,14 +30,6 @@ about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
   Motivated and mechanically inclined professional seeking an Industrial Mechanic (Millwright) <mark>Apprenticeship</mark> to apply my hands-on experience with mechanical systems, troubleshooting, and equipment maintenance. With a strong background in operating and servicing heavy machinery, I am eager <mark>to develop</mark> my skills in precision repair, assembly, and preventive maintenance within an industrial setting.
 content:
-- title: HIGHLIGHTS OF QUALIFICATIONS
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Bachelor’s Degree in Operation, Machinery and Equipment of Agribusiness 
-      - DL Class 1 and owns a vehicle
-      - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
-      - Languages: English (CLB 6), Russian, and Ukrainian (native)
-      - Standard First Aid Level C (CPR); H2S Alive; CSO; Fall protection
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,6 +125,16 @@ content:
           Operation, Machinery and Equipment of Agribusiness
         description: | # this will include new lines to allow paragraphs
           Specialist in Operation, Machinery and Equipment of Agribusiness and able to solve unique tasks related to the maintenance and use of mechanized technologies of production, primary processing, storage and transportation of agricultural products. 
+
+- title: HIGHLIGHTS OF QUALIFICATIONS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Bachelor’s Degree in Operation, Machinery and Equipment of Agribusiness 
+      - DL Class 1 and owns a vehicle
+      - Computer: MS Office (Word, Excel, PowerPoint), Internet and email
+      - Languages: English (CLB 6), Russian, and Ukrainian (native)
+      - Standard First Aid Level C (CPR); H2S Alive; CSO; Fall protection
+
 
 # Footer
 footer_show_references: true
