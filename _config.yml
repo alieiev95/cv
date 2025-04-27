@@ -28,7 +28,7 @@ instagram_username:
 # about_title: ABOUT ME # Title for the section
 about_profile_image: images/123.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Motivated and mechanically inclined professional seeking an Industrial Mechanic (Millwright) <mark>Apprenticeship</mark> to apply my hands-on experience with mechanical systems, troubleshooting, and equipment maintenance. With a strong background in operating and servicing heavy machinery, I am eager <mark>to develop</mark> my skills in precision repair, assembly, and preventive maintenance within an industrial setting.
+ Mechanically inclined and motivated professional seeking an <mark>Apprenticeship</mark> to apply and grow my skills in troubleshooting, repair, and maintenance. With over five years of hands-on experience operating and servicing heavy machinery, I am eager to build <mark>a long-term career</mark> in the skilled trades through hard work, technical ability, and a strong commitment to learning.
 content:
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
